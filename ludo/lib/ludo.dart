@@ -8,7 +8,7 @@ class MyLudo extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.cyan[50],
       appBar: AppBar(
-        backgroundColor: Colors.blue,
+        backgroundColor: const Color.fromARGB(255, 184, 30, 211),
         centerTitle: true,
         title: const Text(
           "LUDO",
